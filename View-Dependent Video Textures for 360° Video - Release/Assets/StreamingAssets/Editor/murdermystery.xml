@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClip xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Clip>
+    <name>murdermystery_full.mov</name>
+    <start>0</start>
+    <end>6</end>
+    <insideTimeline>true</insideTimeline>
+    <timelinePos>0</timelinePos>
+    <muteAudio>false</muteAudio>
+    <Gated>true</Gated>
+    <sp>
+      <targetX>3636.94775</targetX>
+      <targetY>963.8554</targetY>
+      <targetWidth>321.2852</targetWidth>
+      <targetHeight>619.4378</targetHeight>
+      <gateTime>5.02</gateTime>
+      <lookAt>true</lookAt>
+      <startTime>0</startTime>
+      <endTime>6</endTime>
+      <LoopsFolder>PARENT_DIR/View-Dependent Video Textures for 360° Video - Release/Assets/StreamingAssets/Editor/murdermystery0-6</LoopsFolder>
+      <jumpImmediately>true</jumpImmediately>
+      <crossFadeAudio>true</crossFadeAudio>
+      <jumpThreshold>3817</jumpThreshold>
+      <minLoopLengthSec>1</minLoopLengthSec>
+      <perceptualThreshold>3817</perceptualThreshold>
+      <cutFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery0-6\cut.json</cutFile>
+      <allArcsFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery0-6\allArcs.json</allArcsFile>
+      <validArcFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery0-6\valid.json</validArcFile>
+      <extraCostsFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery0-6\extraCosts.json</extraCostsFile>
+      <edgeCostMatrixFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery0-6\edge_cost_matrix.xml</edgeCostMatrixFile>
+    </sp>
+  </Clip>
+  <Clip>
+    <name>murdermystery_full.mov</name>
+    <start>6</start>
+    <end>13</end>
+    <insideTimeline>true</insideTimeline>
+    <timelinePos>6</timelinePos>
+    <muteAudio>false</muteAudio>
+    <Gated>false</Gated>
+    <sp>
+      <targetX>0</targetX>
+      <targetY>0</targetY>
+      <targetWidth>1</targetWidth>
+      <targetHeight>1</targetHeight>
+      <gateTime>-1</gateTime>
+      <lookAt>false</lookAt>
+      <startTime>0</startTime>
+      <endTime>0</endTime>
+      <LoopsFolder />
+      <jumpImmediately>false</jumpImmediately>
+      <crossFadeAudio>true</crossFadeAudio>
+      <jumpThreshold>0</jumpThreshold>
+      <minLoopLengthSec>0</minLoopLengthSec>
+      <perceptualThreshold>0</perceptualThreshold>
+      <cutFile />
+      <allArcsFile />
+      <validArcFile />
+      <extraCostsFile />
+      <edgeCostMatrixFile />
+    </sp>
+  </Clip>
+  <Clip>
+    <name>murdermystery_full.mov</name>
+    <start>13</start>
+    <end>15.7</end>
+    <insideTimeline>true</insideTimeline>
+    <timelinePos>13</timelinePos>
+    <muteAudio>false</muteAudio>
+    <Gated>true</Gated>
+    <sp>
+      <targetX>3670.36157</targetX>
+      <targetY>971.5663</targetY>
+      <targetWidth>269.8794</targetWidth>
+      <targetHeight>619.4377</targetHeight>
+      <gateTime>2.64999962</gateTime>
+      <lookAt>false</lookAt>
+      <startTime>13</startTime>
+      <endTime>15.7</endTime>
+      <LoopsFolder>PARENT_DIR/View-Dependent Video Textures for 360° Video - Release/Assets/StreamingAssets/Editor/murdermystery13-17</LoopsFolder>
+      <jumpImmediately>true</jumpImmediately>
+      <crossFadeAudio>true</crossFadeAudio>
+      <jumpThreshold>5481</jumpThreshold>
+      <minLoopLengthSec>0.5</minLoopLengthSec>
+      <perceptualThreshold>5481</perceptualThreshold>
+      <cutFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery13-17\cut.json</cutFile>
+      <allArcsFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery13-17\allArcs.json</allArcsFile>
+      <validArcFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery13-17\valid.json</validArcFile>
+      <extraCostsFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery13-17\extraCosts.json</extraCostsFile>
+      <edgeCostMatrixFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery13-17\edge_cost_matrix.xml</edgeCostMatrixFile>
+    </sp>
+  </Clip>
+  <Clip>
+    <name>murdermystery_full.mov</name>
+    <start>21</start>
+    <end>26</end>
+    <insideTimeline>true</insideTimeline>
+    <timelinePos>15.7</timelinePos>
+    <muteAudio>false</muteAudio>
+    <Gated>false</Gated>
+    <sp>
+      <targetX>0</targetX>
+      <targetY>0</targetY>
+      <targetWidth>1</targetWidth>
+      <targetHeight>1</targetHeight>
+      <gateTime>-1</gateTime>
+      <lookAt>false</lookAt>
+      <startTime>0</startTime>
+      <endTime>0</endTime>
+      <LoopsFolder />
+      <jumpImmediately>false</jumpImmediately>
+      <crossFadeAudio>true</crossFadeAudio>
+      <jumpThreshold>0</jumpThreshold>
+      <minLoopLengthSec>0</minLoopLengthSec>
+      <perceptualThreshold>0</perceptualThreshold>
+      <cutFile />
+      <allArcsFile />
+      <validArcFile />
+      <extraCostsFile />
+      <edgeCostMatrixFile />
+    </sp>
+  </Clip>
+  <Clip>
+    <name>murdermystery_full.mov</name>
+    <start>26</start>
+    <end>33</end>
+    <insideTimeline>true</insideTimeline>
+    <timelinePos>20.7</timelinePos>
+    <muteAudio>false</muteAudio>
+    <Gated>true</Gated>
+    <sp>
+      <targetX>3672.932</targetX>
+      <targetY>889.317261</targetY>
+      <targetWidth>275.019928</targetWidth>
+      <targetHeight>614.297241</targetHeight>
+      <gateTime>3.853056</gateTime>
+      <lookAt>true</lookAt>
+      <startTime>26</startTime>
+      <endTime>33</endTime>
+      <LoopsFolder>PARENT_DIR/View-Dependent Video Textures for 360° Video - Release/Assets/StreamingAssets/Editor/murdermystery26-33</LoopsFolder>
+      <jumpImmediately>true</jumpImmediately>
+      <crossFadeAudio>true</crossFadeAudio>
+      <jumpThreshold>2593</jumpThreshold>
+      <minLoopLengthSec>1</minLoopLengthSec>
+      <perceptualThreshold>2593</perceptualThreshold>
+      <cutFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery26-33\cut.json</cutFile>
+      <allArcsFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery26-33\allArcs.json</allArcsFile>
+      <validArcFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery26-33\valid.json</validArcFile>
+      <extraCostsFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery26-33\extraCosts.json</extraCostsFile>
+      <edgeCostMatrixFile>PARENT_DIR\View-Dependent Video Textures for 360° Video - Release\Assets\StreamingAssets\Editor\murdermystery26-33\edge_cost_matrix.xml</edgeCostMatrixFile>
+    </sp>
+  </Clip>
+</ArrayOfClip>

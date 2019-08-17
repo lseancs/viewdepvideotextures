@@ -20,7 +20,7 @@ Research Paper: https://lseancs.github.io/viewdepvrtextures/
    ```
    - Download the [audio](https://drive.google.com/file/d/1eYMh04wySfQgW-7lxu2nB-jMc3uqSazw/view?usp=sharing) into Assets/Resources/
 3. Go to Unity's Asset Store:
-   - Asset Store: RenderHeads AVPro Video (Windows) -> Import all (Note: license costs $150; not tested on free trial)
+   - Asset Store: RenderHeads AVPro Video (Windows) -> Import all (Note: license costs $150; not tested on free version)
    - Asset Store: JSON .NET For Unity -> Import All
 4. Update Settings:
    - Edit -> Project Settings -> Player -> Other Settings -> Scripting Runtime Versions -> .NET 4.x or Equivalent

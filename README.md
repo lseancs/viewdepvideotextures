@@ -14,7 +14,10 @@ Research Paper: https://lseancs.github.io/viewdepvrtextures/
 1. Download "View-Dependent Video Textures for 360° Video - Release". Open the project in Unity.
 2. Media setup:
    - Download this [video](https://drive.google.com/file/d/1QrES4P6xQAHwvfOE-uBkxeOip_orB0IS/view?usp=sharing) into Assets/StreamingAssets/
-   - Convert the video into HAP format and place it in the same directory: ```ffmpeg -i murdermystery_full.mp4 -c:v hap murdermystery_full.mov```
+   - Convert the video into HAP format and place it in the same directory: 
+   ```
+   ffmpeg -i murdermystery_full.mp4 -c:v hap murdermystery_full.mov
+   ```
    - Download the [audio](https://drive.google.com/file/d/1eYMh04wySfQgW-7lxu2nB-jMc3uqSazw/view?usp=sharing) into Assets/Resources/
 3. Go to Unity's Asset Store:
    - Asset Store: RenderHeads AVPro Video (Windows) -> Import all (Note: license costs $150; not tested on free trial)

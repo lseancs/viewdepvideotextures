@@ -26,7 +26,7 @@ Research Paper: https://lseancs.github.io/viewdepvrtextures/
    - Edit -> Project Settings -> Player -> Other Settings -> Scripting Runtime Versions -> .NET 4.x or Equivalent
    - Edit -> Project Settings -> Player -> XR Settings -> Check "VR Supported". Make sure Oculus is in the list (you need to first set up Oculus with Unity)
 4. Scene Setup:
-   - Double-click on Scenes/MurderMystery.unity
+   - Double-click on Scenes/MurderMysteryFull.unity
    - Expand the scene hierarchy
    - For BOTH player1 and player2, go to Platform Specific -> Windows -> Preferred Video API (Direct Show). Your computer has to support hardware decoding to play the HAP videos.
 5. XML tweaking

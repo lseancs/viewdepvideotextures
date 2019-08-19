@@ -31,7 +31,7 @@ Research Paper: https://lseancs.github.io/viewdepvrtextures/
    - For BOTH player1 and player2, go to Platform Specific -> Windows -> Preferred Video API (Direct Show). Your computer has to support hardware decoding to play the HAP videos.
 5. XML tweaking
    - Open Assets/StreamingAssets/Editor/murdermystery.xml in a text editor
-   - Find and replace "PARENT_DIR" with the parent directory of "View-Dependent Video Textures for 360° Video - Release"
+   - Find and replace "PARENT_DIR" with the path to the Unity project directory (i.e., "View-Dependent Video Textures for 360° Video - Release")
 6. Inspector Setup for "Sphere"
    - Click on "Sphere" in the scene hierarchy, which will bring up the Inspector panel on the right.
    - In the MultiplePlayerControl component -> Media: Set size to 2. Then, drag player1 into Element 0 and player2 into Element1.
